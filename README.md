@@ -154,8 +154,8 @@ Data-Analytics/
 | Skill              | Status         |
 | ------------------ | -------------- |
 | Excel              | 🟡 Completed |
-| SQL                | 🟡 In Progress     |
-| Python             | ⏳ Upcoming     |
+| SQL                | 🟡 Completed     |
+| Python             | ⏳ In Progress     |
 | Data Visualization | ⏳ Upcoming     |
 | Statistics         | ⏳ Upcoming     |
 | Portfolio Projects | ⏳ Upcoming     |
